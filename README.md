@@ -6,3 +6,10 @@ A Cat and Dog classifier is an application of Convolutional Neural Network (CNN)
 3) Validation Folder:- It includes data to perform validation.
 
 
+ ## Required Modules
+ 1) Keras
+ 2) TensorFlow
+ 
+ 
+
+
