@@ -1,5 +1,5 @@
 # Cat-Dog-Classification
-### developed at Data Science Academy https://datascience.one
+### Developed at Data Science Academy https://datascience.one
 Convolutional Neural Network to classify images as either cat or dog.Data is provided in the data.tar.gz file.The data folder contains three folders:
 1) TestImages Folder:- It includes images of cat and dog used for testing.
 2) Train Folder :- It includes training data.
