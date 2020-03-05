@@ -1,6 +1,6 @@
 # Cat-Dog-Classification
 ### developed at Data Science Academy https://datascience.one
-A Cat and Dog classifier is an application of Convolutional Neural Network (CNN). Data is provided in the data.tar.gz file. The data folder contains three folders:
+Convolutional Neural Network to classify images as either cat or dog.Data is provided in the data.tar.gz file.The data folder contains three folders:
 1) TestImages Folder:- It includes images of cat and dog used for testing.
 2) Train Folder :- It includes training data.
 3) Validation Folder:- It includes data to perform validation.
