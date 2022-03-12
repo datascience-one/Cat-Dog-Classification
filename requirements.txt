@@ -1,4 +1,4 @@
 keras
 tensorflow
-Pillow==3.1.2
+Pillow==9.0.1
 scikit-image
